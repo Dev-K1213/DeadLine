@@ -20,13 +20,13 @@ The goal is to build a functional application that allows students to manage the
 
 The following matrix organizes potential features based on their importance and urgency.
 
-![Deadline Eisenhower Matrix](./docs/DeadLine(MVP).png)
+![Deadline Eisenhower Matrix](./Docs/DeadLine(MVP).png)
 
 ## 4. System Diagram
 
 The following flowchart illustrates how the major components of Deadline interact and how information moves through the application.
 
-![Deadline System Diagram](./docs/Deadline(FlowChart).jpg)
+![Deadline System Diagram](./Docs/Deadline(FlowChart).jpg)
 
 ## 5. Tech Stack
 
